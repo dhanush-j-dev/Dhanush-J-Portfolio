@@ -10,7 +10,6 @@
   <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-8.2-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-v4.0-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></a>
   <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Focus-Java_&_Spring_Boot-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java & Spring Boot"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"></a>
 </p>
 
 <p align="center">
@@ -24,9 +23,8 @@
 
 ## Preview
 
-<!-- Replace with portfolio screenshot once captured (e.g. ./assets/preview.png) -->
 <p align="center">
-  <img src="src/assets/profile.jpeg" alt="Dhanush J — Portfolio Portrait" width="220" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);" />
+  <img src="./public/portfolio-preview.png" alt="Dhanush J Portfolio Preview" width="100%" style="border-radius: 8px; border: 1px solid rgba(255,255,255,0.1);" />
 </p>
 
 ---
@@ -397,9 +395,3 @@ I am open to entry-level opportunities as a **Java Developer**, **Backend Develo
 - **LinkedIn**: [linkedin.com/in/jdhanush](https://www.linkedin.com/in/jdhanush/)
 - **GitHub**: [github.com/Dhanush-j-dev](https://github.com/Dhanush-j-dev)
 - **Location**: Chennai, Tamil Nadu, India
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
