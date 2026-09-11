@@ -1,11 +1,11 @@
-﻿import React from 'react';
+import React from 'react';
 import profilePhoto from '../assets/profile.jpeg';
 
 const BADGES = ['Java 17', 'Spring Boot', 'REST APIs', 'MySQL'];
 
 export const ProfileCard: React.FC = () => {
   return (
-    <div className="relative w-full max-w-[320px] mx-auto">
+    <div className="relative w-full max-w-[260px] sm:max-w-[290px] lg:max-w-[320px] mx-auto">
       {/* Outer ambient glow & depth inspired by reference's hero-oval-glow */}
       <div
         className="absolute -inset-2 rounded-3xl bg-gradient-to-tr from-[var(--accent-primary)]/20 via-[var(--accent-secondary)]/15 to-transparent blur-2xl opacity-70 pointer-events-none"

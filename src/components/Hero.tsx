@@ -14,10 +14,10 @@ export const Hero: React.FC = () => {
       />
 
       <div className="relative max-w-6xl mx-auto px-5 sm:px-8">
-        <div className="flex flex-col-reverse lg:grid lg:grid-cols-12 gap-12 lg:gap-8 items-center">
+        <div className="flex flex-col lg:grid lg:grid-cols-12 gap-10 lg:gap-8 items-center">
 
           {/* Left Column: Hero Content */}
-          <div className="lg:col-span-7 space-y-6">
+          <div className="lg:col-span-7 space-y-6 w-full">
 
             {/* 1. JAVA DEVELOPER badge */}
             <div className="h-eyebrow flex items-center gap-2.5">

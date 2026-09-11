@@ -129,7 +129,7 @@ function PortfolioApp() {
       </nav>
 
       {/* Main Content Progression */}
-      <main>
+      <main className="relative z-10">
         <Hero />
         <TechnicalHighlights />
         <About />

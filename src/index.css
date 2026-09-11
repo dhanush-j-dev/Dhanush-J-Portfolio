@@ -75,7 +75,12 @@
     overflow-x: hidden;
   }
   section[id] {
-    scroll-margin-top: 5rem;
+    scroll-margin-top: 6.25rem;
+  }
+  @media (min-width: 768px) {
+    section[id] {
+      scroll-margin-top: 5rem;
+    }
   }
   code, pre, .font-mono { font-family: var(--font-mono); }
 }
